@@ -1,22 +1,17 @@
-# NLP Preprocessing Engine
+# NLP Assignments
 
-This project is part of a Data Science Internship assignment focused on building a robust NLP preprocessing pipeline.
 
-## Overview
-The goal of this project is to clean and normalize messy real-world text data and convert it into structured tokens suitable for machine learning models.
+### Task 1: NLP Preprocessing Engine
+- Text cleaning pipeline
+- Token analysis
+- Frequency analysis
 
-## Features
-- Lowercasing text
-- Removal of URLs and emails
-- Removal of numbers
-- Handling repeated characters
-- Emoji removal
-- Tokenization and filtering
-- Frequency analysis using Counter
-- Edge case handling
+### Task 2: Sentiment Analysis
+- Preprocessing
+- Feature engineering (BoW, TF-IDF)
+- Models: Logistic, Naive Bayes, Decision Tree
+- Evaluation & comparison
 
-## Technologies Used
-- Python
-- Regular Expressions (re)
-- Emoji library
-
+### Dataset
+IMDb Movie Reviews  
+https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
